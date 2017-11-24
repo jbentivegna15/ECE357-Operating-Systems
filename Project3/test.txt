@@ -1,1 +1,0 @@
-Error executing command banana: No such file or directory
