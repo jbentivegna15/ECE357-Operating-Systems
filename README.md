@@ -8,3 +8,5 @@
 3. shell - An interactive unix shell.
 
 4. launcher - A program which uses pipes to link 3 programs. One generates random words, the second finds dictionary words from those random words, and the third simulates the MORE unix command.
+
+5. memory test - A series of test cases which probe for the existence of certain features regarding mmap on the linux platform.
